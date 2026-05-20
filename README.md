@@ -132,9 +132,4 @@ us. Have a wonderful day!"
 - Complete all mandatory training and certifications
 
 ## Tools Used
-[Zendesk](https://www.zendesk.com) | 
-[Freshdesk](https://www.freshdesk.com) | 
-[HubSpot](https://www.hubspot.com) | 
-[Zoho CRM](https://www.zoho.com/crm) | 
-[Notion](https://www.notion.so) | 
-[Slack](https://slack.com)
+In house CRM and Ticketing Tool
